@@ -1,0 +1,16 @@
+{
+
+  "token": "OTcwNjQyMTM3OTY2MzM4MTE5.Ym-67w.RcZxBSFvdecS9fcOIQy8ZG_6j-c",
+	"channel": "896664329808674836",
+  "nodes": [
+  {
+      "host": "usa.lavalink.mitask.tech",
+      "password": "lvserver",
+      "port": 2333,
+      "retryDelay": 3000,
+      "identifier": "lavalink 1",
+      "secure": false
+    }
+
+  ]
+}

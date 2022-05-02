@@ -1,0 +1,25 @@
+{
+  "name": "lavalink-status",
+  "version": "1.0.0",
+  "description": "lavalink live status in your discord server",
+  "main": "index.js",
+   "scripts": {
+    "start": "node index.js"
+ },
+  "keywords": [
+    "lavalink",
+    "erela",
+    "music",
+    "bot",
+    "discord",
+    "musicbot"
+  ],
+  "author": "VENOM",
+  "license ": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "erela.js": "^2.3.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
